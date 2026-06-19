@@ -19,12 +19,12 @@ This project presents a comprehensive data analysis solution for a healthcare fa
 * **Gender & Admission:** Patients are almost equally distributed between genders, with a significant portion entering via **Direct Admission** rather than department referrals.
 
 ## 🖼️ Dashboard Preview
-![Healthcare Dashboard Screenshot](dashboard_screenshot.jpg)
+![Healthcare Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📐 Data Architecture & Model
 The project follows a clean data modeling approach to ensure high performance:
 
-![Data Model](data_model.jpg)
+![Data Model](data_model.png)
 
 ## 📂 Project Structure
 * `/Healthcare_Dashboard.pbix` - The core Power BI project file containing the data model, Power Query steps, and the visual layout.
