@@ -21,6 +21,11 @@ This project presents a comprehensive data analysis solution for a healthcare fa
 ## 🖼️ Dashboard Preview
 ![Healthcare Dashboard Screenshot](dashboard_screenshot.jpg)
 
+## 📐 Data Architecture & Model
+The project follows a clean data modeling approach to ensure high performance:
+
+![Data Model](data_model.jpg)
+
 ## 📂 Project Structure
 * `/Healthcare_Dashboard.pbix` - The core Power BI project file containing the data model, Power Query steps, and the visual layout.
 * `/dashboard_screenshot.jpg` - A preview image of the final dashboard.
